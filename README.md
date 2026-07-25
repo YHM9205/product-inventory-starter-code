@@ -4,7 +4,7 @@
 
 2. Perform the following commands in the command line
 ```bash
-git clone https://github.com/SEB-13-Bahrain/auth-template.git .
+git clone https://github.com/omarakamal/product-inventory-starter-code.git .
 rm -rf .git
 rm README.md
 ```
