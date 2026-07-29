@@ -11,7 +11,7 @@ rm README.md
 
 3. Create a .env file with the following values:
 ```
-MONGODB_URI=mongodb+srv://omar:1234@omar-cluster.pac2dyx.mongodb.net/productLab?appName=omar-cluster
+MONGODB_URI=your-connection-string
 PORT=3000
 CLIENT_URL=http://localhost:5173
 ```
